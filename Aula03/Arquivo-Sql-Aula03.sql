@@ -3,7 +3,7 @@ insert into ALUNO values(5, 'Ciclano Silveira Sales', 28);
 insert into ALUNO values(6, 'Deltrano Vieira Silva', 27);*/
 
 --========================================================--
---select * from ALUNO;
+select * from ALUNO;
 
 --========================================================--
-delete from ALUNO where codigo = 5;
+--delete from ALUNO where codigo = 5;
