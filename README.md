@@ -5,3 +5,7 @@
 ## Introdução
 
 	Preparação do ambiente para acompanhamento do curso. Explicação do linguagem SQL.
+	
+## Update, cCmmit, Rollback
+
+	SQL utilizando UPDATE, COMMIT e ROLLBACK
