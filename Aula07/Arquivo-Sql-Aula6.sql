@@ -8,7 +8,7 @@ select A.CODIGO, A.NOME, A.IDADE, 'Sem Turma' as DESCRICAO from ALUNO A
 where not exists(select 1 from TURMAITEM TI
             where TI.CODIGO_ALUNO = A.CODIGO)
             
-union
+union all
 
 select 10 as CODIGO,
     'Astronildo Bertolo' as NOME,
