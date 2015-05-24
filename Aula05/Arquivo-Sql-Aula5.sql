@@ -1,7 +1,10 @@
 /*select * from ALUNO;
 select * from TURMA;
 select * from TURMAITEM;*/
-select CODIGO, NOME from Turma;
+select TI.CODIGO_ALUNO, A.NOME, TI.CODIGO_TURMA, T.NOME
+from TURMAITEM TI
+    join TURMA T on TI.CODIGO_TURMA = T.CODIGO
+    join ALUNO A on TI.CODIGO_ALUNO = A.CODIGO;
 
 /*--=============================================--
 insert into TURMA values(1, 'Turma 6ª B', 2013);
