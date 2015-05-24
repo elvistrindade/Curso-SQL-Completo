@@ -1,2 +1,6 @@
-select * from ALUNO;
-select * from TURMA;
+/*select * from ALUNO;
+select * from TURMA;*/
+
+--=============================================--
+insert into TURMA
+values(1, 'Turma 6ª B', 2013);
