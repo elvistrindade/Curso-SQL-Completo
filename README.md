@@ -21,3 +21,7 @@
 ## Junções
 
 	Nesta aula você aprenderá a trabalhar com junções ou JOIN.
+	
+## Como usar o Exists
+
+	Nesta aula você aprenderá a trabalhar com condição EXISTS.
