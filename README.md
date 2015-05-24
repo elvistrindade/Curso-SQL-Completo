@@ -6,6 +6,10 @@
 
 	Preparação do ambiente para acompanhamento do curso. Explicação do linguagem SQL.
 	
-## Update, cCmmit, Rollback
+## Update, Commit, Rollback
 
 	SQL utilizando UPDATE, COMMIT e ROLLBACK
+	
+## Delete
+
+	Executando DELETE para exclusão de dados.
