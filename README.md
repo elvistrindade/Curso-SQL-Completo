@@ -13,3 +13,7 @@
 ## Delete
 
 	Executando DELETE para exclusão de dados.
+	
+## Foreign Key
+
+	Criando Chaves Estrangeiras para criar relacionamentos entre tabelas.
