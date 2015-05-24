@@ -25,3 +25,7 @@
 ## Como usar o Exists
 
 	Nesta aula você aprenderá a trabalhar com condição EXISTS.
+	
+## Como usar UNION
+	
+	Nesta aula você aprenderá a trabalhar com UNION.
