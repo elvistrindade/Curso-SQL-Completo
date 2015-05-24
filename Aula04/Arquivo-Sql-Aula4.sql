@@ -15,7 +15,13 @@
 );*/
 
 --========================================================--
-alter table TURMAITEM add constraint FK_TURMAITEM_TURMA
+/*alter table TURMAITEM add constraint FK_TURMAITEM_TURMA
     foreign key (CODIGO_TURMA) references TURMA (CODIGO)
+    on update CASCADE 
+    on delete NO ACTION;*/
+    
+--========================================================--
+alter table TURMAITEM add constraint FK_TURMAITEM_ALUNO
+    foreign key (CODIGO_ALUNO) references ALUNO (CODIGO)
     on update CASCADE 
     on delete NO ACTION;
