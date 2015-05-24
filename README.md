@@ -17,3 +17,7 @@
 ## Foreign Key
 
 	Criando Chaves Estrangeiras para criar relacionamentos entre tabelas.
+	
+## Junções
+
+	Nesta aula você aprenderá a trabalhar com junções ou JOIN.
