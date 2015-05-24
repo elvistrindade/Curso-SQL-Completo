@@ -1,0 +1,1 @@
+update ALUNO set idade = 11 where codigo = 3;
